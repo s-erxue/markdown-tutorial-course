@@ -1,2 +1,3 @@
-# markdown-tutorial-course
+# Markdown Tutorial
+
 A Markdown course
