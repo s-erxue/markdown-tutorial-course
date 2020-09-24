@@ -3,6 +3,9 @@ description: A Markdown course
 template:
   repo: markdown-tutorial-template
   name: markdown-tutorial
+tags:
+  - GitHub
+  - Markdown
 before:
   - type: createIssue
     title: Welcome!
